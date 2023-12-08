@@ -1,0 +1,25 @@
+.title {
+    filter: drop-shadow(5px 5px 10px red);
+    font-size: 43px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.parrafo {
+    font-size: 22px;
+    text-align: center;
+}
+
+.contenedor img {
+    display: block;
+    max-width: 80%;
+    color: black;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+body {
+    background-color: slateblue;
+}
